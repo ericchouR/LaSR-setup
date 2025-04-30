@@ -120,7 +120,7 @@ This project analyzes LaSR’s performance across varying input dimensions and r
 
 ---
 
-## 🔗 Demo
+## LaSR 5D data Example Visualization
 
 [Click to see the LaSR 5D example visualization](https://bit.ly/lasr5dexample-eric)
 ![image](https://github.com/user-attachments/assets/d12bec4e-0bcd-40e5-a856-d4eca02875f7)
