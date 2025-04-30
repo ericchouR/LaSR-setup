@@ -79,6 +79,25 @@ predict(mach, X)
 
 ---
 
+## Clone and Run Locally
+
+After creating the 5D example, clone the LaSR repository to access the core implementation:
+
+```bash
+!git clone https://github.com/trishullab/LibraryAugmentedSymbolicRegression.jl.git
+%cd LibraryAugmentedSymbolicRegression.jl
+```
+
+Then, run the script to train and evaluate the model:
+
+```bash
+!julia script.jl
+```
+
+Make sure the `script.jl` file is placed in the root of the cloned directory.
+
+---
+
 ## File Structure
 
 ```
