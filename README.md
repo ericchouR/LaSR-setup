@@ -117,3 +117,9 @@ Make sure the `script.jl` file is placed in the root of the cloned directory.
 
 ## Results
 This project analyzes LaSR’s performance across varying input dimensions and reports structural similarity between predicted and ground truth formulas, even when exact coefficients differ slightly in high-dimensional cases.
+
+---
+
+## 🔗 Demo
+
+[Click to see the LaSR 5D example visualization](https://bit.ly/lasr5dexample-eric)
